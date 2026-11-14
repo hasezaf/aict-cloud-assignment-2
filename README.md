@@ -2,7 +2,7 @@
 A small python script to find count, maximum, minimum and average of a set of readings.
 
 ## Purpose:
-The script takes the reading in an array and uses in built functions like max, min, sum, len to print the count, maximum, minimum and average of the readings.
+The script takes the reading in an array and uses in built functions like *max*, *min*, *sum*, *len* to print the count, maximum, minimum and average of the readings.
 
 ## Readings:
 Readings are specified already and are as follows: 22, 24, 26, 28, 30.
